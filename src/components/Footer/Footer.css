@@ -1,0 +1,72 @@
+.footer{
+  
+
+margin-top: 5%;
+
+
+
+}
+.footerlogo{
+    width: 140px;
+height: 26px;
+top: 5489.71px;
+left: 207px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bold{
+    width: 82px;
+height: 42px;
+top: 5439.71px;
+left: 413px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 32px;
+font-weight: 500;
+line-height: 42px;
+text-align: center;
+
+}
+.light{
+    font-family: Clash Display;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
+
+}
+.dark-btn{
+padding: 15px 25px;
+
+font-family: Clash Display;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+background: #000;
+}
+.copyright_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+height: 104px;
+top: 5741.71px;
+left: 175px;
+padding: 0px 365px 0px 369px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+.copyright_section p{
+    font-family: Clash Display;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+text-align: left;
+
+}

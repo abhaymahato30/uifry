@@ -1,0 +1,96 @@
+.faq_section {
+  width: 1090px;
+  height: 751px;
+  top: 3870.71px;
+  left: 175px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+}
+.sub_heading{
+    width: 44px;
+height: 28px;
+top: 3870.71px;
+left: 175px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0.16em;
+text-align: left;
+color: rgba(255, 85, 85, 1);
+}
+.heading{
+    width: 497px;
+height: 96px;
+top: 3902.71px;
+left: 175px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+
+
+}
+.tab_container{
+    width: 1090px;
+height: 583px;
+top: 4038.71px;
+left: 175px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+display: flex;
+flex-wrap: wrap;
+margin-top: 5%;
+
+}
+.desc_container{
+width: 535px;
+height: 181px;
+top: 4038.71px;
+left: 175px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+transform: scale(0.9);
+
+}
+.desc_container_heading{
+    width: 474px;
+height: 56px;
+top: 4069.71px;
+left: 206px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 28px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+
+}
+.desc_container_desc{
+    width: 466px;
+height: 56px;
+top: 4133.71px;
+left: 206px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+text-align: justified;
+
+}
+
+.maroon{
+    background:  rgba(255, 85, 85, 1);
+    color: rgba(255, 255, 255, 1);
+}
